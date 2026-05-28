@@ -1,0 +1,166 @@
+Roadmap perfeito pra você
+
+FASE 1 — Fundamentos de Segurança
+Objetivo:
+entender como ataques funcionam.
+
+Estudar:
+HTTP / HTTPS ✓
+TCP/IP ✓
+DNS ✓
+Cookies ✓
+Sessão ✓
+JWT ✓
+OAuth2 ✓
+CORS ✓
+Headers ✓
+
+FASE 2 — OWASP Top 10 (OBRIGATÓRIO)
+A base da segurança web.
+
+Aprender:
+SQL Injection
+XSS
+CSRF
+SSRF
+IDOR
+Broken Authentication
+Broken Access Control
+Security Misconfiguration
+
+Isso é MUITO importante pra AppSec.
+
+FASE 3 — Linux + Redes
+Você já tem base.
+Agora aprofunda:
+
+processos
+permissões
+logs
+SSH
+nginx
+firewall
+iptables
+portas
+proxies
+
+FASE 4 — Ferramentas
+O mínimo:
+
+Aprender:
+Burp Suite
+Nmap
+Wireshark
+OWASP ZAP
+
+Depois:
+
+Metasploit
+Trivy
+Semgrep
+
+FASE 5 — Segurança em APIs
+PERFEITO pra você.
+
+Estudar:
+JWT attacks
+Rate limiting
+API Gateway
+API Security Top 10
+Broken Object Level Authorization
+
+FASE 6 — Cloud Security
+Como você já usa AWS:
+isso vira diferencial ENORME.
+
+Aprender:
+IAM
+S3 Security
+Security Groups
+WAF
+CloudTrail
+Secrets Manager
+O que você precisa ter no GitHub
+
+Isso importa MUITO.
+
+Projeto ideal
+“SecureTask API”
+
+Uma API com:
+
+Django REST
+JWT
+RBAC
+Logs
+Docker
+PostgreSQL
+HTTPS
+Rate Limiting
+CI/CD
+monitoramento
+validações de segurança
+headers seguros
+proteção OWASP
+Depois:
+você mesmo tenta atacar sua API
+
+Usando:
+
+Burp Suite
+OWASP ZAP
+
+Isso impressiona MUITO recrutador.
+
+Certificações boas para começar
+Mais acessíveis:
+Google Cybersecurity
+Security+
+eJPT
+AWS Cloud Practitioner
+O mínimo REAL para conseguir vaga júnior
+
+Se você tiver:
+
+✅ Linux
+✅ Redes básicas
+✅ OWASP
+✅ Burp Suite
+✅ APIs
+✅ HTTP
+✅ GitHub com projetos
+✅ Docker
+✅ Segurança web básica
+✅ AWS básica
+
+Você já pode aplicar.
+
+Quanto tempo?
+
+Com sua base atual:
+
+estudando sério:
+4 a 8 meses
+
+Você já pode tentar:
+
+AppSec Junior
+Security Analyst Junior
+DevSecOps Junior
+Pentest Web Junior
+O melhor diferencial que você pode construir
+
+Muita gente da segurança:
+
+NÃO sabe programar direito.
+
+Você sabe.
+
+Então foque em:
+
+segurança de aplicações
+APIs
+cloud
+automação
+
+Isso cria um perfil MUITO valorizado hoje.
